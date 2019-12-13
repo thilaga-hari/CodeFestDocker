@@ -13,12 +13,12 @@ namespace CodeFest1.Controllers
         
 
         // GET api/values/5
-        [HttpGet("{id}")]
+        [HttpGet("{celsius}")]
         public ActionResult<string> Get(double celsius)
         {
             double f;  
             f = celsius * 9 / 5 + 32;  
-            return (f + "°F in Celsius is: " + celsius + "°C");  
+            return (celsius + "°C in Farenheit is: " + f + "°F");  
         }
 
         
