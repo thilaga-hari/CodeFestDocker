@@ -1,0 +1,14 @@
+C:\Users\thilagavathy.yuvaraj\Documents\LearnGIT\CodeFest1\bin\Debug\netcoreapp2.1\CodeFest1.deps.json
+C:\Users\thilagavathy.yuvaraj\Documents\LearnGIT\CodeFest1\bin\Debug\netcoreapp2.1\CodeFest1.runtimeconfig.json
+C:\Users\thilagavathy.yuvaraj\Documents\LearnGIT\CodeFest1\bin\Debug\netcoreapp2.1\CodeFest1.runtimeconfig.dev.json
+C:\Users\thilagavathy.yuvaraj\Documents\LearnGIT\CodeFest1\bin\Debug\netcoreapp2.1\CodeFest1.dll
+C:\Users\thilagavathy.yuvaraj\Documents\LearnGIT\CodeFest1\bin\Debug\netcoreapp2.1\CodeFest1.pdb
+C:\Users\thilagavathy.yuvaraj\Documents\LearnGIT\CodeFest1\obj\Debug\netcoreapp2.1\CodeFest1.csprojAssemblyReference.cache
+C:\Users\thilagavathy.yuvaraj\Documents\LearnGIT\CodeFest1\obj\Debug\netcoreapp2.1\CodeFest1.csproj.CoreCompileInputs.cache
+C:\Users\thilagavathy.yuvaraj\Documents\LearnGIT\CodeFest1\obj\Debug\netcoreapp2.1\CodeFest1.RazorAssemblyInfo.cache
+C:\Users\thilagavathy.yuvaraj\Documents\LearnGIT\CodeFest1\obj\Debug\netcoreapp2.1\CodeFest1.RazorAssemblyInfo.cs
+C:\Users\thilagavathy.yuvaraj\Documents\LearnGIT\CodeFest1\obj\Debug\netcoreapp2.1\CodeFest1.AssemblyInfoInputs.cache
+C:\Users\thilagavathy.yuvaraj\Documents\LearnGIT\CodeFest1\obj\Debug\netcoreapp2.1\CodeFest1.AssemblyInfo.cs
+C:\Users\thilagavathy.yuvaraj\Documents\LearnGIT\CodeFest1\obj\Debug\netcoreapp2.1\CodeFest1.RazorTargetAssemblyInfo.cache
+C:\Users\thilagavathy.yuvaraj\Documents\LearnGIT\CodeFest1\obj\Debug\netcoreapp2.1\CodeFest1.dll
+C:\Users\thilagavathy.yuvaraj\Documents\LearnGIT\CodeFest1\obj\Debug\netcoreapp2.1\CodeFest1.pdb
